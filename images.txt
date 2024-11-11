@@ -1,4 +1,4 @@
 #库名
-python:3.6
+python:3.10
 #支持指定架构
 --platform=linux/arm64 
